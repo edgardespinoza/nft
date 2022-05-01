@@ -1,0 +1,22 @@
+{
+  "name": "#2",
+  "description": "",
+  "external_url": "",
+  "image": "https://ipfs.io/ipfs/QmQoYQzZLwJGExq3sh1DMna6Q6G6QLLjigMAzG7WfCxmNh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "huesito"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
