@@ -1,22 +1,5 @@
 {
-  "name": "#1",
-  "description": "",
-  "external_url": "",
-  "image": "https://ipfs.io/ipfs/Qmba4dGtrNRnEceLiVBosbwMNAY8SMSbmrxWsjtkLGKZwB",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "rubi_coneja"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "1.webp",
-        "type": "image/webp"
-      }
-    ],
-    "creators": []
-  },
-  "compiler": "https://nft-generator.art"
+  "name": "edy#1",
+  "description": "rubi",
+  "image": "https://ipfs.io/ipfs/Qmba4dGtrNRnEceLiVBosbwMNAY8SMSbmrxWsjtkLGKZwB"
 }
