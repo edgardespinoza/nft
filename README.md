@@ -24,4 +24,14 @@
 
 * create account in [Rarible](https://rinkeby.rarible.com/items/owned)
 
-* Smart Contract NFT ``0x9Af19e806eF55e84A009330a69c9a949206FA97c``
+* Smart Contract NFT ``0x53a24e1d32b096370f1201cf5dc1cf899ca12154``
+
+
+* validate api in opensea 
+  ```
+    curl https://testnets-api.opensea.io/asset/0x53a24e1d32b096370f1201cf5dc1cf899ca12154/0/validate/
+  ```
+* see dir
+  ```
+    tree -L 3 -I 'node_modules*|cache*'
+  ```

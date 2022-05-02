@@ -11,10 +11,10 @@ contract MyNFTHouse is ERC721, ERC721Enumerable, Ownable {
 
     Counters.Counter private _tokenIdCounter;
 
-    constructor() ERC721("MYHOUSE", "EEG") {}
+    constructor() ERC721("NFT_EER", "EEG") {}
 
     function _baseURI() internal pure override returns (string memory) {
-        return "https://bafybeigmknes2urvsmmmwwuav3yazogrnfgprnqkz7f2iqtmegmirucp6i.ipfs.nftstorage.link/metadata/";
+        return "https://bafybeiapvjjmmmthlcm3tnbhbsrjr4pj3akn2oglnsai3hkzl7evumxaau.ipfs.nftstorage.link/metadata/";
     }
 
     function safeMint(address to) public onlyOwner {

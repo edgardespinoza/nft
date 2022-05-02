@@ -1,6 +1,11 @@
 {
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    }
+  ],
   "description" : "huesito exposition",
-  "external_url" : "",
-  "image" : "https://bafybeigzvdeaq6kinjrdm3e7ciax6jujotombf4slmldvowoc46y3pph6y.ipfs.nftstorage.link/images/0.png",
+  "image" : "https://bafybeiga566bfml2c5lnby6euayuue4c6gjkiww4cjromgsf4d2vxcylfa.ipfs.nftstorage.link/images/0.png",
   "name" : "Huesito"
 }

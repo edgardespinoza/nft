@@ -1,35 +1,11 @@
 {
-  "attributes" : [
-     {
-        "trait_type" : "level",
-        "value" : 3
-     },
-     {
-        "trait_type" : "stamina",
-        "value" : 11.7
-     },
-     {
-        "trait_type" : "personality",
-        "value" : "sleepy"
-     },
-     {
-        "display_type" : "boost_number",
-        "trait_type" : "aqua_power",
-        "value" : 30
-     },
-     {
-        "display_type" : "boost_percentage",
-        "trait_type" : "stamina_increase",
-        "value" : 15
-     },
-     {
-        "display_type" : "number",
-        "trait_type" : "generation",
-        "value" : 1
-     }
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    }
   ],
   "description" : "conejita rubi",
-  "external_url" : "",
-  "image" : "https://bafybeigzvdeaq6kinjrdm3e7ciax6jujotombf4slmldvowoc46y3pph6y.ipfs.nftstorage.link/images/1.png",
+  "image" : "https://bafybeiga566bfml2c5lnby6euayuue4c6gjkiww4cjromgsf4d2vxcylfa.ipfs.nftstorage.link/images/1.png",
   "name" : "Rubi"
 }
